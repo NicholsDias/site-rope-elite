@@ -124,15 +124,17 @@ footer {
 
 /* Aqui você coloca suas imagens */
 .img1 {
-  background-image: url('../rope-elite/images/fundo.jpg');
+  background-image: url('fundo.jpg');
 }
 
 .img2 {
-  background-image: url('../rope-elite/images/logo.png');
+  background-image: url('logo.png');
 }
+
 .img3 {
-  background-image: url('../rope-elite/images/image.png');
+  background-image: url('image.png');
 }
+
 
 
 
@@ -178,4 +180,5 @@ footer {
     font-weight: bold;
     margin: 0;
     color: white;
+
 }
